@@ -1,0 +1,25 @@
+{
+  "name": "@ioops/playwright-utils",
+  "version": "1.0.0",
+  "description": "IOOPS :: Playwright utils :: Usefull functions to extend tests",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioops-io/playwright-utils.git"
+  },
+  "author": "davi@ioops.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioops-io/playwright-utils/issues"
+  },
+  "homepage": "https://github.com/ioops-io/playwright-utils#readme",
+  "dependencies": {
+    "@types/node": "^22.7.2",
+    "typescript": "^5.6.2"
+  }
+}
