@@ -1,6 +1,6 @@
 {
   "name": "@ioops/playwright-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IOOPS :: Playwright utils :: Usefull functions to extend tests",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
